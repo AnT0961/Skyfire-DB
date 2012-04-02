@@ -1,0 +1,2 @@
+INSERT INTO gameobject_loot_template
+VALUES (205558, 61366, -100, 1, 0, 1, 1)
